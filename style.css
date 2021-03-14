@@ -5,3 +5,40 @@ body {
     color: #333;
     line-height: 1.6;
 }
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+}
+
+#p1Button {
+    border: none;
+    background: blue;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 1rem;
+}
+
+#p2Button {
+    border: none;
+    background: green;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 1rem;
+}
+
+#reset {
+        border: none;
+        background: red;
+        color: white;
+        padding: 10px 20px;
+        margin-right: 1rem;
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
